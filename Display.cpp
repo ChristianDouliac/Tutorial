@@ -4,6 +4,8 @@ using namespace cv;
 using namespace cv_bridge;
 using std::placeholders::_1;
 
+// Coucou 2ième version
+
 
 namespace composition
 {
